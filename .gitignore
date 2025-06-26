@@ -1,5 +1,6 @@
 # custom files
 custom/themes/powerlevel10k/
+
 # temp files directories
 cache/
 log/
