@@ -1,0 +1,4 @@
+[submodule "custom/plugins/zsh-vi-mode"]
+	path = custom/plugins/zsh-vi-mode
+	url = https://github.com/xDDoubleTea/zsh-vi-mode
+	branch = forked
