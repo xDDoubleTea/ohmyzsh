@@ -5,8 +5,5 @@ alias wheretfedit='vim $(wheretf)'
 alias lg='lazygit'
 alias la='ls -Alh --color=always'
 alias tmuxa='tmux attach || tmux new-session -s default'
-<<<<<<< HEAD
 alias phonemirror='scrcpy --no-clipboard-autosync --keyboard=aoa --disable-screensaver --require-audio'
 alias parui='parui -p=yay'
-=======
->>>>>>> 5f622113d8dcbac8bc0f7bb843719f7137be1048
