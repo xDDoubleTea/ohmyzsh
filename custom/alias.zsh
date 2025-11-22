@@ -5,10 +5,11 @@ alias wheretfedit='vim $(wheretf)'
 alias lg='lazygit'
 alias tmuxa='tmux attach || tmux new-session -s default'
 alias cd='z'
-alias bat='batcat'
+
+alias exa='eza'
 alias ls='exa --icons --color=always --group-directories-first'
 alias v="nvim"
 alias ll='exa -alF --icons --color=always --group-directories-first'
 alias la='exa -a --icons --color=always --group-directories-first'
 alias l='exa -lF --icons --color=always --group-directories-first'
-alias lf='yazi'
+
